@@ -1,4 +1,4 @@
-### This is going to be the README of the project when it is deployed and has be refactored
+### This is the README of the project
  
 ``client`` folder is where all of the frontend is</br>
 ``flask-server`` is where all of the backend is</br>
